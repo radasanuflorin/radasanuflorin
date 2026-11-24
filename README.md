@@ -44,6 +44,7 @@ const florin = {
 <tr><td><b>⌨️ Languages</b></td><td>
 <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Dart-0a0a0f?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 <img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css&logoColor=1572B6"/>
@@ -146,6 +147,29 @@ Mobile calorie tracker with an **AI assistant**: describe or photograph a meal a
 
 <img src="https://img.shields.io/badge/Flutter-0a0a0f?style=flat-square&logo=flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Gemini-0a0a0f?style=flat-square&logo=googlegemini&logoColor=8E75B2"/> <img src="https://img.shields.io/badge/Riverpod-0a0a0f?style=flat-square&logo=dart&logoColor=00B4AB"/> <img src="https://img.shields.io/badge/Actions-0a0a0f?style=flat-square&logo=githubactions&logoColor=2088FF"/>
 </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✋ Gestures Spotify
+<a href="https://github.com/radasanuflorin/gestures-spotify"><img src="https://img.shields.io/badge/source-public-3ddc84?style=flat-square&labelColor=0a0a0f&logo=github"/></a> <a href="https://github.com/radasanuflorin/gestures-spotify"><img src="https://img.shields.io/badge/spotify%20layer-private-ff2e3b?style=flat-square&labelColor=0a0a0f&logo=github"/></a>
+<img src="./assets/projects/gestures-spotify.anim.webp" width="100%" alt="Gestures Spotify"/>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+Control Spotify with **hand gestures** from a webcam, in real time and fully local.
+
+- ✊ pause · ✋ play · 👉 / 👈 next / previous
+- ✋↻ turn the hand like a **knob** for the volume
+- Pointing and rotation computed from MediaPipe's **21 hand landmarks**
+- Ignores the mouse area and works even at **10 fps** in dim light
+- **102 tests** on simulated hands
+
+<img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/MediaPipe-0a0a0f?style=flat-square&logo=google&logoColor=0097A7"/> <img src="https://img.shields.io/badge/OpenCV-0a0a0f?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/Computer%20Vision-0a0a0f?style=flat-square"/>
 </td>
 </tr>
 <tr>
