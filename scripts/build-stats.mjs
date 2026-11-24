@@ -128,10 +128,7 @@ const stats = {
   stars: repos.reduce((s, r) => s + r.stargazerCount, 0),
   prs: me.pullRequests.totalCount, issues: me.issues.totalCount, followers: me.followers.totalCount,
 };
-// Manual floor set by hand: the real number replaces it as soon as it is higher.
-const COMMITS_FLOOR = 359;
 console.log(`real commits (all branches): ${allBranchCommits}`);
-stats.commits = Math.max(stats.commits, COMMITS_FLOOR);
 writeFileSync(join(root, 'assets/stats.json'), JSON.stringify({ ...stats, languages: langList, updated: now.toISOString() }, null, 2) + '\n');
 
 console.log(stats, langList.map((l) => `${l.name} ${l.pct.toFixed(1)}%`).join(', '));
