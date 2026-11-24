@@ -119,9 +119,9 @@ Training platform for football referees: the Laws of the Game, every law change 
 <a href="https://github.com/radasanuflorin/contabilitate-pfa"><img src="https://img.shields.io/badge/source-private-ff2e3b?style=flat-square&labelColor=0a0a0f&logo=github"/></a> <a href="https://github.com/radasanuflorin/contabilitate-pfa"><img src="https://img.shields.io/badge/showcase-public-3ddc84?style=flat-square&labelColor=0a0a0f&logo=github"/></a>
 <img src="./assets/projects/contabilitate.anim.webp" width="100%" alt="Contabilitate PFA"/>
 
-Accounting app for Romanian sole traders: invoices, expenses, bank, VAT, reports and **e-Factura (ANAF)** integration, with an audit trail.
+Invoicing & tax app for Romanian self-employed, used daily instead of a commercial app. Invoices and receipts, **ANAF e-Factura** with XML validated before upload, **student tax rules**, a printable cash ledger, period filters and Ctrl+K search. Runs locally over HTTPS, **51 end-to-end tests**.
 
-<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Prisma-0a0a0f?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-0a0a0f?style=flat-square&logo=sqlite&logoColor=4DB6E8"/> <img src="https://img.shields.io/badge/Zod-0a0a0f?style=flat-square&logo=zod&logoColor=3E67B1"/>
+<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Prisma-0a0a0f?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-0a0a0f?style=flat-square&logo=sqlite&logoColor=4DB6E8"/> <img src="https://img.shields.io/badge/OAuth2-0a0a0f?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/Puppeteer-0a0a0f?style=flat-square&logo=puppeteer&logoColor=40B5A4"/>
 </td>
 </tr>
 <tr>
