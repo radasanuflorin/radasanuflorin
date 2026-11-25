@@ -105,6 +105,29 @@ const florin = {
 <tr>
 <td width="50%" valign="top">
 
+### 🏢 radasanuf.com
+<a href="https://radasanuf.com"><img src="https://img.shields.io/badge/live-radasanuf.com-3ddc84?style=flat-square&labelColor=0a0a0f&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/radasanuflorin/radasanuf.com"><img src="https://img.shields.io/badge/source-private-ff2e3b?style=flat-square&labelColor=0a0a0f&logo=github"/></a> <a href="https://github.com/radasanuflorin/radasanuf.com"><img src="https://img.shields.io/badge/showcase-public-3ddc84?style=flat-square&labelColor=0a0a0f&logo=github"/></a>
+<a href="https://radasanuf.com"><img src="./assets/projects/radasanuf.anim.webp" width="100%" alt="A walk through radasanuf.com"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+My portfolio as a place: **a CV you walk into**. Swipe the access card, step into the office and sit at the desk.
+
+- The projects are **USB sticks**: plug one into the laptop for a real terminal and live demos
+- The **printer** prints the CV; the whiteboard explains how the site is built
+- A **logic-gate adder** you can flip and watch, an espresso you can drink
+- A **skateboard** switches the language: kickflip from RO to EN
+- **Ray traced in WebGL 2**, no 3D model files, about 5 ms per frame at 1080p
+
+<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/WebGL%202-0a0a0f?style=flat-square&logo=webgl&logoColor=white"/> <img src="https://img.shields.io/badge/GLSL-0a0a0f?style=flat-square&logo=opengl&logoColor=5586A4"/> <img src="https://img.shields.io/badge/Workers-0a0a0f?style=flat-square&logo=cloudflareworkers&logoColor=F38020"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ⚽ REF-LAWS
 <a href="https://github.com/radasanuflorin/ref-laws"><img src="https://img.shields.io/badge/source-private-ff2e3b?style=flat-square&labelColor=0a0a0f&logo=github"/></a> <a href="https://github.com/radasanuflorin/ref-laws"><img src="https://img.shields.io/badge/showcase-public-3ddc84?style=flat-square&labelColor=0a0a0f&logo=github"/></a>
 <img src="./assets/projects/ref-laws.anim.webp" width="100%" alt="REF-LAWS"/>
