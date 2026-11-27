@@ -1,13 +1,13 @@
 {
-  "contributions": 466,
-  "commits": 275,
-  "thisYear": 464,
-  "current": 4,
-  "longest": 4,
-  "added": 146601,
-  "removed": 36407,
-  "repos": 22,
-  "privateCount": 13,
+  "contributions": 490,
+  "commits": 297,
+  "thisYear": 488,
+  "current": 6,
+  "longest": 6,
+  "added": 148650,
+  "removed": 37197,
+  "repos": 23,
+  "privateCount": 14,
   "publicCount": 9,
   "stars": 0,
   "prs": 23,
@@ -17,33 +17,33 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 67.64206828430915
+      "pct": 67.3607124891323
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 17.848671735892758
+      "pct": 18.11078358171379
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 7.150288119935558
+      "pct": 7.130012866198726
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 4.034642194257326
+      "pct": 4.087988878386848
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 1.8597777789762977
+      "pct": 1.8520420714627905
     },
     {
       "name": "VHDL",
       "color": "#adb2cb",
-      "pct": 1.3415741002560295
+      "pct": 1.3359938503118722
     }
   ],
-  "updated": "2026-11-26T12:34:05.321Z"
+  "updated": "2026-11-27T12:20:47.163Z"
 }
